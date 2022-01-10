@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.headers {
+  display: flex;
+  padding-top: 40px;
+  justify-content: space-around;
+}
+
+.logo {
+  display: flex;
+  height: 100px;
+  align-self: flex-start;
+  padding-bottom: -50px;
+}
