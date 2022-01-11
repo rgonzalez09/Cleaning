@@ -15,8 +15,8 @@ export default function navbar() {
         <a href="#" class="aboutUs">
           About us
         </a>
-        <a href="#" class="aboutUs">
-          About us
+        <a href="#" class="Contact Us">
+          Contact Us
         </a>
       </div>
     </div>
