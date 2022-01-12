@@ -3,7 +3,7 @@ import "./body.css";
 
 export default function body() {
   return (
-    <div>
+    <div className="body">
       Exercitation cillum nostrud sit pariatur nisi proident. Ex consectetur
       consequat aliqua non eu ad culpa velit reprehenderit amet non. Enim minim
       deserunt eu laboris laboris veniam ea laborum occaecat magna pariatur eu
