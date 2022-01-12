@@ -2,12 +2,14 @@
   display: flex;
   justify-content: space-around;
   background-color: lightblue;
+  text-decoration: none;
 }
 
 .headers {
   display: flex;
   padding-top: 40px;
-  justify-content: space-around;
+  justify-content: space-between;
+  text-decoration: none;
 }
 
 .logo {
