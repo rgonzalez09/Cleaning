@@ -18,3 +18,18 @@
   align-self: flex-start;
   padding-bottom: -50px;
 }
+
+.aboutUs {
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.ourServices {
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.contactUs {
+  margin-left: 20px;
+  text-decoration: none;
+}

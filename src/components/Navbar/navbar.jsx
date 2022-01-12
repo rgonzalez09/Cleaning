@@ -9,13 +9,13 @@ export default function navbar() {
         <img src="./logo.png"></img>
       </a>
       <div class="headers">
-        <a href="#" class="aboutUs">
+        <a href="#" className="aboutUs">
           About us
         </a>
-        <a href="#" class="aboutUs">
-          About us
+        <a href="#" className="ourServices">
+          Our Services
         </a>
-        <a href="#" class="Contact Us">
+        <a href="#" class="contactUs">
           Contact Us
         </a>
       </div>
